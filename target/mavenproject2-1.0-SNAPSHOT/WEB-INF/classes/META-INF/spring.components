@@ -1,0 +1,5 @@
+com.assignment.mavenproject2.controller.AssignmentController=org.springframework.stereotype.Component
+com.assignment.mavenproject2.controller.CourseController=org.springframework.stereotype.Component
+com.assignment.mavenproject2.controller.UserController=org.springframework.stereotype.Component
+com.assignment.mavenproject2.pojo.Course=javax.persistence.Entity,javax.persistence.Table
+com.assignment.mavenproject2.pojo.User=javax.persistence.Entity,javax.persistence.Table

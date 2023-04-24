@@ -1,0 +1,10 @@
+com\assignment\mavenproject2\pojo\Course.class
+com\assignment\mavenproject2\validator\UserValidator.class
+META-INF\spring.components
+com\assignment\mavenproject2\pojo\User.class
+com\assignment\mavenproject2\dao\DAO.class
+com\assignment\mavenproject2\dao\CourseDAO.class
+com\assignment\mavenproject2\dao\UserDAO.class
+com\assignment\mavenproject2\controller\UserController.class
+com\assignment\mavenproject2\controller\AssignmentController.class
+com\assignment\mavenproject2\controller\CourseController.class
